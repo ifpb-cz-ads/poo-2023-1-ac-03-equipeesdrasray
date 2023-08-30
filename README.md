@@ -11,3 +11,7 @@ g) (falso) char nome = “Maria”;<br/>
 h) (verdadeiro) String b = “1”;<br/>
 i) (verdadeiro) float x = 2.7;<br/>
 j) (falso) int a = false;<br/>
+
+## Questão 4
+ Acontece um erro, pois o valor do tipo long não pode ser convertido para o tipo int.
+
